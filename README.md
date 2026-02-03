@@ -1,9 +1,3 @@
-# hyperpalm
-HyperPalm: a tiny, portable, document‑centric OS inspired by HyperCard and PalmOS, built for RP2040‑class hardware.
-Here’s the continuation, now that the PiCalc is properly elevated as the flagship device. I’ll expand the README from that intro and carry the PiCalc emphasis through the rest of the document so the identity is consistent and unmistakable.
-
----
-
 # **HyperPalm**
 
 **A tiny, portable, card‑based computing environment built first for the PiCalc (RP2040) — and designed to run everywhere.**
