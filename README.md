@@ -124,10 +124,3 @@ The architecture is stable; the engine and scripting layer are being built out.
 Contributions, ports, and experiments are welcome.
 
 ---
-
-If you want, I can now:
-
-- tune the README tone (more technical, more playful, more manifesto‑like)  
-- add badges, screenshots placeholders, or a PiCalc photo section  
-- generate a CONTRIBUTING.md or ROADMAP.md  
-- write a “Why PiCalc?” sidebar that really sells the origin story
